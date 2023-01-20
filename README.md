@@ -1,16 +1,12 @@
 # TREASURE VENTURE
 
-**Project type:** PC video game.  
-**Brief description:** 3D platformer game made with the Unity game engine, which uses the C# language.  
-**Technologies:** Unity (2021.3.16f1) / C#.  
-
 From Dec 15th to Dec 21st 2022, [Mourat](https://github.com/Mourat), [Doramail](https://github.com/doramail) and I worked in collaboration in the context of a school project. The goal was to discover Git and teamwork, and to learn a few things with the Unity engine, namely the new input system.  
 
-We were asked to make a small game, and we decided on a platformer. Having a week to develop something, and managing the teamwork aspect, we couldn't finish what we had in mind, but we are proud of what we managed to do nonetheless.  
+We were asked to make a small 3D game, and we decided on a platformer. Having a week to develop something, and managing the teamwork aspect, we couldn't finish what we had in mind, but we are proud of what we managed to do nonetheless.  
 
 This collab version runs on Unity 2021.3.15f1 and its last commit is [be8e129e342bdf5adc788d0104b95a083e391489](https://github.com/TheLycorisRadiata/game_unity_treasureventure/tree/be8e129e342bdf5adc788d0104b95a083e391489).  
 
-We are all free to pursue the project by our lonesome, so I'll aim to make it an actual game.
+We are all free to pursue the project by our lonesome, so I've upgraded the project to the 2021.3.16f1 version of Unity and I've continued to work on it a little before archiving the repo.  
 
 ---
 
